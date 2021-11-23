@@ -1,0 +1,11 @@
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\bin\Debug\frmFacturacion.exe.config
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\bin\Debug\frmFacturacion.exe
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\bin\Debug\frmFacturacion.pdb
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\obj\Debug\frmFacturacion.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\obj\Debug\frmFacturacion.Form1.resources
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\obj\Debug\frmFacturacion.Properties.Resources.resources
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\obj\Debug\frmFacturacion.csproj.GenerateResource.cache
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\obj\Debug\frmFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\obj\Debug\frmFacturacion.exe
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\obj\Debug\frmFacturacion.pdb
+C:\Users\kievk\OneDrive\Desktop\frmFacturacion\frmFacturacion\obj\Debug\frmFacturacion.frmCotizacion.resources
