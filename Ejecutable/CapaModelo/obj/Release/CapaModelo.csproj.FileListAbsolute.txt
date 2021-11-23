@@ -1,0 +1,6 @@
+C:\Users\sucel\Desktop\frmFacturacion\frmFacturacion\CapaModelo\bin\Release\CapaModelo.dll
+C:\Users\sucel\Desktop\frmFacturacion\frmFacturacion\CapaModelo\bin\Release\CapaModelo.pdb
+C:\Users\sucel\Desktop\frmFacturacion\frmFacturacion\CapaModelo\obj\Release\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\sucel\Desktop\frmFacturacion\frmFacturacion\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\sucel\Desktop\frmFacturacion\frmFacturacion\CapaModelo\obj\Release\CapaModelo.dll
+C:\Users\sucel\Desktop\frmFacturacion\frmFacturacion\CapaModelo\obj\Release\CapaModelo.pdb
